@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohenrique0880?igsh=MWVleHducDdjN3owcg%3D%3D&utm_source=qr)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-henrique-ba34aa301)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=devPedroPinheiro&show_icons=true&theme=dracula)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=devPedroPinheiro&show_icons=true&theme=highcontrast)
 
 ### Tecnologias que eu uso no meu dia
 
